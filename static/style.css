@@ -1,0 +1,34 @@
+* {
+   box-sizing: border-box;
+   margin: 0;
+   padding: 0;
+}
+
+body {
+   background: whitesmoke;
+}
+
+header {
+   width: 100%;
+   height: 10vh;
+   background: blueviolet;
+   color: white;
+   font-size: 150%;
+   text-align: center;
+}
+
+main {
+   width: 100%;
+   height: 85vh;
+   padding: 5% 25%;
+}
+
+#me {
+   height: 60vh;
+}
+
+footer {
+   width: 100%;
+   height: 5vh;
+   text-align: center;
+}
