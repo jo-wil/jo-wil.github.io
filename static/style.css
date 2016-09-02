@@ -23,6 +23,9 @@ main {
 main h2 {
    padding: 1%;
 }
+main img {
+   height: 70%;
+}
 main p {
    padding: 1%;
 }
