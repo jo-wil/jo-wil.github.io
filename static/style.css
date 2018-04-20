@@ -4,13 +4,15 @@
 }
 
 body {
-   height: 100vh;
    background: whitesmoke;
+   display: flex;
+   flex-direction: column;
    font-family: sans-serif;
+   height: 100vh;
 }
 
 header {
-   height: 10%;
+   height: 10vh;
 }
 header h1 {
    font-size: 250%;
@@ -18,18 +20,18 @@ header h1 {
 }
 
 main {
-   height: 85%;
+   height: 85vh;
 }
 main h2 {
    padding: 1%;
 }
 main img {
-   height: 70%;
+   height: 50vh;
 }
 main p {
    padding: 1%;
 }
 
 footer {
-   height: 5%;
+   height: 5vh;
 }
